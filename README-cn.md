@@ -1,12 +1,12 @@
-[English](/README.md) | 中文
-# OpenHub 
-[![Releases](https://img.shields.io/badge/android-5.0%2B-brightgreen.svg)](https://play.google.com/store/apps/details?id=com.thirtydegreesray.openhub)
-[![Releases](https://img.shields.io/github/release/ThirtyDegreesRay/OpenHub.svg)](https://github.com/ThirtyDegreesRay/OpenHub/releases/latest)
+[cn ]() | 中文
+#
+[[Releases](https://img.shields.io/badge/android-5.0%2B-brightgreen.svg)](https://play.google.com/store/apps/details?id=com.thirtydegreesray.openhub)
+[](https://img.shields.io/github/release/ThirtyDegreesRay/OpenHub.svg)](https://github.com/ThirtyDegreesRay/OpenHub/releases/latest)
 
 一个**开源**的GitHub Android客户端应用，快速简洁。
 
-[![Coolapk](https://raw.githubusercontent.com/ThirtyDegreesRay/OpenHub/master/art/coolapk.png?raw=true)](https://www.coolapk.com/apk/com.thirtydegreesray.openhub)
-[![Google Play](https://raw.githubusercontent.com/ThirtyDegreesRay/OpenHub/master/art/google_play.png?raw=true)](https://play.google.com/store/apps/details?id=com.thirtydegreesray.openhub)
+[[Coolapk](https://raw.githubusercontent.com/ThirtyDegreesRay/OpenHub/master/art/coolapk.png?raw=true)](https://www.coolapk.com/apk/com.thirtydegreesray.openhub)
+[[Google Play](https://raw.githubusercontent.com/ThirtyDegreesRay/OpenHub/master/art/google_play.png?raw=true)](https://play.google.com/store/apps/details?id=com.thirtydegreesray.openhub)
 
 ## 特点
 
@@ -69,9 +69,8 @@
 
 ## 截屏
 
-| 动态 | 侧滑页 | 个人主页 |
-|:-:|:-:|:-:|
-| ![news](https://raw.githubusercontent.com/ThirtyDegreesRay/OpenHub/master/art/news.png?raw=true) | ![drawer](https://raw.githubusercontent.com/ThirtyDegreesRay/OpenHub/master/art/drawer.png?raw=true) | ![profile](https://raw.githubusercontent.com/ThirtyDegreesRay/OpenHub/master/art/profile.png?raw=true) |
+| 动态 | 侧滑页 | 个人主页 
+[news](https://raw.githubusercontent.com/ThirtyDegreesRay/OpenHub/master/art/news.png?raw=true) | ![drawer](https://raw.githubusercontent.com/ThirtyDegreesRay/OpenHub/master/art/drawer.png?raw=true) | ![profile](https://raw.githubusercontent.com/ThirtyDegreesRay/OpenHub/master/art/profile.png?raw=true) |
 
 | 版本库主页 | 提交 | 代码 |
 |:-:|:-:|:-:|
